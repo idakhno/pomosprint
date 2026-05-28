@@ -2,7 +2,9 @@
 
 A simple pomo-timer. Convinient, free, yours, forever. Just like that? Yeah, just like that.
 
+![CI](https://github.com/USER/REPO/actions/workflows/FILE.yml/badge.svg)
 [![style: very good analysis](https://img.shields.io/badge/style-very_good_analysis-B22C89.svg)](https://pub.dev/packages/very_good_analysis)
+![License](https://img.shields.io/github/license/USER/REPO)
 
 ## Current operating SDK restraints
 
