@@ -6,7 +6,7 @@ A simple pomo-timer. Convinient, free, yours, forever. Just like that? Yeah, jus
   <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License: MIT"></a>
   <img src="https://img.shields.io/badge/flutter-3.x-02569B?logo=flutter" alt="Flutter">
   <a href="https://pub.dev/packages/very_good_analysis"><img src="https://img.shields.io/badge/style-very_good_analysis-B22C89.svg" alt="style: very good analysis"></a>
-  <a href="https://github.com/USER/pomosprint/actions/workflows/ci.yml"><img src="https://github.com/USER/pomosprint/actions/workflows/ci.yml/badge.svg" alt="CI"></a>
+  <!-- <a href="https://github.com/USER/pomosprint/actions/workflows/ci.yml"><img src="https://github.com/USER/pomosprint/actions/workflows/ci.yml/badge.svg" alt="CI"></a> -->
 </p>
 
 ## Current operating SDK restraints
