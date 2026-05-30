@@ -10,11 +10,46 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  flutter_native_splash: ^2.4.8
 
 dev_dependencies:
+  flutter_launcher_icons: ^0.14.4
   flutter_test:
     sdk: flutter
+
   very_good_analysis: ^10.2.0
 
 flutter:
   uses-material-design: true
+  assets:
+    - assets/splash/
+
+flutter_native_splash:
+  web: false
+
+  color: "#F4F1E9"
+  color_dark: "#15110C"
+  image_android: assets/splash/light/android_legacy.png
+  image_dark_android: assets/splash/dark/android_legacy.png
+  image_ios: assets/splash/light/ios.png
+  image_dark_ios: assets/splash/dark/ios.png
+
+  android_12:
+    color: "#F4F1E9"
+    color_dark: "#15110C"
+    image: assets/splash/light/android_12.png
+    image_dark: assets/splash/dark/android_12.png
+
+flutter_launcher_icons:
+  android: true
+  ios: false
+
+  min_sdk_android: 21
+
+  image_path_android: "assets/icons/android/legacy_icon.png"
+
+  adaptive_icon_foreground: "assets/icons/android/adaptive_icon_foreground.png"
+  adaptive_icon_background: "assets/icons/android/adaptive_icon_background.png"
+  adaptive_icon_foreground_inset: 16
+
+  adaptive_icon_monochrome: "assets/icons/android/adaptive_icon_monochrome.png"
