@@ -20,8 +20,8 @@ All external packages used are thoroughly selected and checked for malvare
 
 ## App Startup Icon
 
-iOS: Powered by Xcode Icon Composer, made from scratch, svg vectors
-Android: Powered by package flutter_launcher_icons, Android version dependent with fallbacks for Android 8<=
+- iOS: Powered by Xcode Icon Composer, made from scratch, svg vectors
+- Android: Powered by package flutter_launcher_icons, Android version dependent with fallbacks for Android 8<=
 
 ## Splash Screen
 
